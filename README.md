@@ -5,8 +5,8 @@ The 3D representation of the cube is shown on the web-app with opportunity to ro
 # How to run
 1. Clone this repository `git clone ... `
 2. Install all necessary dependencies `npm install`
-3. Run simulation part by using `npm start`. It will start on port 5000
-4. Start frontend (client) part by suing `npm start`. It will start on port 3000. Ports are important since it will influence the connection between 2 parts.
+3. Run simulation part (`simulation` folder) by using `npm start`. It will start on port 5000
+4. Start frontend (client) (`3d-cube` folder) part by suing `npm start`. It will start on port 3000. Ports are important since it will influence the connection between 2 parts.
 
 # Notes
 
