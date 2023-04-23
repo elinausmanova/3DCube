@@ -2,6 +2,8 @@
 
 The 3D representation of the cube is shown on the web-app with opportunity to rotate the cube by the angle received from an arduino microcontroller. 
 
+![web-app](https://github.com/elinausmanova/3DCube/blob/main/3d-cube/public/webapp.jpg)
+
 # How to run
 1. Clone this repository `git clone ... `
 2. Install all necessary dependencies `npm install`
