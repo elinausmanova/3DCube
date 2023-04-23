@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.button {
+  height: 32px;
+  width: 100px;
+  background-color: #EEEDFA;
+  font-size: 14px;
+  color: #18163A;
+  border: 1px solid #EEEDFA;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #CAC6F8;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  justify-content: flex-start;
+}
+
+.ant-layout-sider {
+  width: fit-content !important;
+  max-width: fit-content !important;
+  min-width: fit-content !important;
+}
